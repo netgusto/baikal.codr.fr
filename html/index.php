@@ -14,8 +14,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
   <meta charset="utf-8">
   <title>CalDAV + CardDAV lightweight server: Baïkal</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="CalDAV + CardDAV server based on PHP, SQLite and SabreDAV">
-  <meta name="author" content="">
+  <meta name="description" content="CalDAV and CardDAV server for calendar and contact data based on PHP, SQLite, and SabreDAV">
 
   <!-- Le styles -->
   <link href="res/css/bootstrap.css" rel="stylesheet">
