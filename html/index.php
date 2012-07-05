@@ -89,7 +89,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 			<div class="row leftside">
 				<div class="span8 textual">
 					<h3>Effortless administration</h3>
-					<p>Baïkal include a sleek and extensive <strong>graphical web administration interface</strong> to simplify administrative tasks such as <strong>user management, calendar and addressbooks management</strong>, and system settings. The dashboard presents some key aspects of your system, proiding a one-glance overview of the running services.</p>
+					<p>Baïkal include a sleek and extensive <strong>graphical web administration interface</strong> to simplify administrative tasks such as <strong>user management, calendar and address book management</strong>, and system settings. The dashboard presents some key aspects of your system, providing a one-glance overview of the running services.</p>
 				</div>
 				<div class="span4 graphic">
 					<p>
@@ -106,7 +106,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 				</div>
 				<div class="span8 textual">
 					<h3>2-click installation</h3>
-					<p>Baïkal provides a flat package with an automatic installation tool. Extract the downloaded archive, deploy it over FTP to the server, and it is ready to go. No cumbersome tweeking of configuration files required.</p>
+					<p>Baïkal provides a flat package with an automatic installation tool. Extract the downloaded archive, deploy it over FTP to the server, and it is ready to go. No cumbersome tweaking of configuration files required.</p>
 				</div>
 			</div>
 			
