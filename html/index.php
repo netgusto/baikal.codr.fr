@@ -66,8 +66,8 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 				</div>
 				<div class="span5 graphic">
 					<p>
-						<img src="res/img/vcard-emboss.png" style="margin-top: 7px; margin-right: 0em;" alt="Visiting cards with CalDAV"/>
-						<img src="res/img/calendar-emboss.png" alt="Calendars with CardDAV"/>
+						<img src="res/img/calendar-emboss.png" alt="Calendars with CalDAV"/>
+						<img src="res/img/vcard-emboss.png" style="margin-top: 7px; margin-right: 0em;" alt="Contact cards with CardDAV"/>
 					</p>
 				</div>
 			</div>
