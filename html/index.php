@@ -251,7 +251,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 						<p class="package-explain">For developpers.</p>
 						<p class="package-body">
 							<strong>Install via SSH+Git.</strong><br />
-							Freshly drawn straight from the development repository.
+							Freshly drawn straight from the development repository. Not suitable for production environments.
 						</p>
 					</div>
 					<p class="download-package-button">
