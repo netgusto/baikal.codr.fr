@@ -105,7 +105,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 				</div>
 				<div class="span7 textual">
 					<h3>Lightweight</h3>
-					<p>Baïkal runs on <strong>PHP 5.3+</strong>, weights under 2MB and stores it's data in a <strong>SQLite</strong> database</strong>. No matter how modest your hosting is, Baïkal will do it's job.</p>
+					<p>Baïkal’s less than 2MB codebase runs on <strong>PHP 5.3</strong> and newer. User data is stored in an <strong>SQLite</strong> database.</strong> No matter how modest your hosting and resources might be, Baïkal will get the job done.</p>
 				</div>
 			</div>
 			
