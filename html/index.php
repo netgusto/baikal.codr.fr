@@ -219,7 +219,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 						<p class="package-explain">Easy installation.</p>
 						<p class="package-body">
 							<strong>Install via FTP.</strong><br />
-							Download this package if you want Baïkal up and running quickly, or <strong>if ou have limited access to the host server.</strong>
+							Download this package if you want Baïkal up and running quickly, or <strong>if you have limited access to the host server.</strong>
 						</p>
 					</div>
 					<p class="download-package-button">
