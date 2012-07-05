@@ -61,8 +61,8 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 		<div class="container">
 			<div class="first row leftside">
 				<div class="span7 textual">
-					<h3>Calendars + Contacts</h3>
-					<p>Baïkal stores both your <strong>calendars and visiting cards</strong>, by implementing simultaneously <strong>CalDAV and CardDAV</strong> protocols, which are today's industry standards for calendar and contacts storage. Baïkal complies with IETF recommandations concerning these two protocols.</p>
+					<h3>Your Calendars and Contacts</h3>
+					<p>Baïkal offers ubiquitous and synchronized access to your <strong>calendars</strong> and <strong>address books</strong> over <em>CalDAV and CardDAV.</em> Baïkal implements the current IETF recommendation drafts of these industry standards for centralized calendar and address book collections.</p>
 				</div>
 				<div class="span5 graphic">
 					<p>
@@ -82,7 +82,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 				</div>
 				<div class="span6 textual">
 					<h3>Compatible with your existing applications</h3>
-					<p>Baïkal is compatible with <strong>iOS’</strong> (iPhone, iPad, and iPod) and <strong>Mac OS X’s</strong> Calendar, Reminders, and Addressbook apps; <strong>Android’s</strong> calendars and contacts apps; Evolution for <strong>Linux;</strong> Mozilla Thunderbird with Lightning; Atmail; eM Client for <strong>Windows;</strong> and every other <strong>CalDAV and CardDAV</strong> capable application.</p>
+					<p>Baïkal is compatible with <strong>iOS’</strong> (iPhone, iPad, and iPod) and <strong>Mac OS X’s</strong> Calendar, Reminders, and Address Book apps; <strong>Android’s</strong> calendars and contacts apps; Evolution for <strong>Linux;</strong> Mozilla Thunderbird with Lightning; Atmail; eM Client for <strong>Windows;</strong> and every other <strong>CalDAV and CardDAV</strong> capable application.</p>
 				</div>
 			</div>
 			
