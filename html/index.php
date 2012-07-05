@@ -111,8 +111,8 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 			
 			<div class="row leftside">
 				<div class="span8 textual">
-					<h3>Installs in 2 clicks</h3>
-					<p>Baïkal provides an automatic installation tool (in the flat FTP version). All you have to do is to unzip the archive, and send it to your host via FTP.</p>
+					<h3>2-click installation</h3>
+					<p>Baïkal provides a flat package with an automatic installation tool. Extract the downloaded archive, deploy it over FTP to the server, and it is ready to go. No cumbersome tweeking of configuration files required.</p>
 				</div>
 				<div class="span4 graphic">
 					<p>
