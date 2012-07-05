@@ -89,7 +89,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 			<div class="row leftside">
 				<div class="span8 textual">
 					<h3>Effortless administration</h3>
-					<p>Baïkal include a sleek and extensive <strong>graphical web administration interface</strong> to simplify administrative tasks such as <strong>user management, calendar and address book management</strong>, and system settings. The dashboard presents some key aspects of your system, providing a one-glance overview of the running services.</p>
+					<p>Baïkal include a sleek and extensive <strong>graphical web administration interface</strong> to simplify administrative tasks such as <strong>user, calendar and address book collection management</strong>, and system settings. The dashboard provides a neat overview over the running system and key data.</p>
 				</div>
 				<div class="span4 graphic">
 					<p>
