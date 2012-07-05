@@ -50,7 +50,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 
 	<header id="baikal-hero" class="bigblue">
 		<div class="noise"></div>
-		<hgroup>
+		<hgroup class="container">
 			<h3>Baïkal</h3>
 			<h1>Lightweight CalDAV+CardDAV server</h1>
 			<button class="btn" onclick="goToByScroll('#download');">Dive right in</button>
