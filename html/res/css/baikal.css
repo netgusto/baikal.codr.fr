@@ -1,0 +1,307 @@
+body {
+	font: 14px/24px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 75px;
+	line-height: 80px;
+	margin-bottom: 14px;
+}
+
+h3 {
+	font-size: 28px;
+	line-height: 34px;
+	margin-bottom: 8px;
+}
+
+.bigblue {
+	display: block;
+	position: relative;
+	background: #005799;	/* median color for gradient */
+	
+	background: -webkit-radial-gradient(33%, ellipse cover, #338ACC 0%, #003863 100%);		/* Safari+Chrome */
+	
+	background: -moz-radial-gradient(center, ellipse cover, #338ACC 0%, #003863 100%);			/* Firefox */
+	
+	background-image: -ms-radial-gradient(center, ellipse cover, #338ACC 0%, #003863 100%);		/* IE9 */
+	
+	background: radial-gradient(center, ellipse cover, #338ACC 0%, #003863 100%);					/* CSS3 */
+}
+
+.bigblue .btn {
+	font-size: 20px;
+	padding: 8px 16px 8px;
+}
+
+.bigblue .download-package .btn-download {
+	opacity: 0.25;
+}
+
+.bigblue .download-package .btn-download:hover {
+	opacity: 1;
+}
+
+header#baikal-hero .container {
+    padding: 100px 0;
+	position: relative;
+}
+
+.bigblue h3 {
+    letter-spacing: -3px;
+    color: white;
+    position: relative;
+    margin-bottom: 5px;
+	text-shadow: 0px 2px 6px #003863;
+}
+
+.bigblue h3 {
+	font-size: 75px;
+	line-height: 80px;
+/*	margin-bottom: 14px;*/
+}
+
+.bigblue h1 {
+	font-size: 28px;
+	line-height: 34px;
+	margin-bottom: 8px;
+}
+
+.bigblue h2,
+.bigblue h1,
+.bigblue h4,
+.bigblue h5 {
+	max-width: 650px;
+	margin-bottom: 20px;
+	color: white;
+	text-shadow: 0px 2px 3px #003863;
+}
+
+.noise {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url(../img/noise.png) repeat;
+}
+
+header#baikal-hero::after {
+	content: " ";
+	display: block;
+	width: 100%;
+	position: absolute;
+	left: 0;
+	bottom: 0px;
+	background: url(../img/vague.png) center;
+	height: 10px;
+}
+
+::selection {
+	background: #F69034;
+	text-shadow: none;
+	color: #FFFEFF;
+}
+
+@media (max-width: 767px) {
+	body {
+		padding-right: 0px;
+		padding-left: 0px;
+	}
+	
+	.container {
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+}
+
+section#presentation,
+section#screenshots,
+section#download {
+	position: relative;
+}
+
+section#presentation .container {
+	margin-top: 1em;
+	padding-bottom: 1em;
+}
+
+section#screenshots .noise {
+	margin-top: 10px;
+}
+
+section#screenshots::before {
+	content: " ";
+	display: block;
+	width: 100%;
+	position: absolute;
+	left: 0;
+	top: 0px;
+	background: url(../img/rond.png) center;
+	height: 10px;
+}
+
+
+section#screenshots {
+	position: relative;	/* important for ::after */
+	
+	background: #DDDDDD;	/* median color for gradient */
+	
+	background: -webkit-radial-gradient(33%, ellipse cover, white 0%, #DDDDDD 100%);		/* Safari+Chrome */
+	
+	background: -moz-radial-gradient(center, ellipse cover, white 0%, #DDDDDD 100%);			/* Firefox */
+	
+	background-image: -ms-radial-gradient(center, ellipse cover, white 0%, #DDDDDD 100%);		/* IE9 */
+	
+	background: radial-gradient(center, ellipse cover, white 0%, #DDDDDD 100%);					/* CSS3 */
+	
+	padding-top: 3em;
+}
+
+section#screenshots div.carousel-links {
+    color: white;
+    margin-bottom: 5px;
+	text-shadow: 0px 2px 8px rgb(64, 64, 64);
+}
+
+section#screenshots h2 {
+	font-size: 34px;
+	line-height: 34px;
+}
+
+section#screenshots h3 {
+	font-size: 22px;
+}
+
+section#screenshots div.carousel-links a {
+	color: white;
+	font-size: 22px;
+	line-height: 34px;
+}
+
+section#download .container {
+	position: relative;
+	padding-top: 3em;
+}
+
+section#download a {
+	color: white;
+}	
+
+section#download p {
+	color: rgb(240, 240, 240);
+}
+
+section#download p.package-explain {
+	font-style: italic;
+	color: gold;
+}
+
+section#download div.download-package div.description {
+	height: 250px;
+}
+
+section#download p.package-body {
+	text-align: justify;
+}
+
+section#download div.download-package p.download-package-button {
+	text-align: center;
+}
+
+section#download::before {
+	content: " ";
+	display: block;
+	width: 100%;
+	position: absolute;
+	left: 0;
+	top: 0px;
+	background: url(../img/rond-gris.png) center;
+	height: 10px;
+}
+
+section#download {
+	padding-bottom: 100px;
+}
+
+section#download h4 {
+	line-height: 24px;
+	font-size: 20px;
+	letter-spacing: -1px;
+}
+
+section#download h4 img {
+	margin-right: 5px;
+}
+
+section#presentation .row {
+	margin-top: 3em;
+}
+
+section#presentation .row.first {
+	margin-top: 1em;
+}
+
+section#presentation .row.leftside h3 {
+	text-align: right;
+}
+
+section#presentation .row.leftside p,
+section#presentation .row.rightside p {
+	text-align: justify;
+}
+
+section#presentation .row.rightside h3 {
+	text-align: left;
+}
+
+section#presentation .row div.graphic p {
+	text-align: center;
+}
+
+div.donate {
+	text-align: center;
+	margin-top: 3em;
+}
+
+@media (max-width: 767px) {
+	
+	section#presentation .row {
+		margin-top: 1em;
+	}
+	
+	section#presentation .row img {
+		display: none;
+	}
+	
+	section#presentation .row.leftside h3,
+	section#presentation .row.rightside h3 {
+		text-align: left;
+	}
+	
+
+	section#presentation .row.leftside p,
+	section#presentation .row.rightside p {
+		text-align: justify;
+	}
+	
+	section#download div.download-package div.description {
+		height: auto;
+	}
+	
+	section#download div.download-package div.description {
+		height: auto;
+	}
+	
+	section#download div.download-package p.download-package-button .btn {
+		width: 64px;
+	}
+	
+	section#download {
+		padding-bottom: 20px;
+	}
+}
