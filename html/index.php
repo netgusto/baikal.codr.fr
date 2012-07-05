@@ -87,49 +87,49 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 			</div>
 			
 			<div class="row leftside">
-				<div class="span7 textual">
-					<h3>Free and open source</h3>
-					<p>Baïkal is “free” as in “free beer.” You can <strong>use it freely, without time restrictions.</strong> The source code is public, and available to everyone. You can modify, review, and contribute to Baïkal’s development. Baïkal is based on other great <strong>open source</strong> projects like <a href="http://code.google.com/p/sabredav/">SabreDAV,</a> <a href="http://twig.sensiolabs.org/" >Twig,</a> and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a> to ensure top quality.</p>
-					<p>Baïkal is released under the <strong>GNU GPL v3 license</strong>, which is approved by the <a href="http://www.opensource.org/licenses/gpl-3.0">Open Source Initiative</a>.</p>
-				</div>
-				<div class="span5 graphic">
-					<p>
-						<img src="res/img/osi_standard_logo.png" alt="Open source initiative logo"/>
-					</p>
-				</div>
-			</div>
-			
-			<div class="row rightside">
-				<div class="span5 graphic">
-					<p><img src="res/img/feather-white.png" alt="A feather, symbolizing the lightness of Baïkal"/></p>
-				</div>
-				<div class="span7 textual">
-					<h3>Lightweight</h3>
-					<p>Baïkal’s less than 2MB codebase runs on <strong>PHP 5.3</strong> and newer. User data is stored in an <strong>SQLite</strong> database.</strong> No matter how modest your hosting and resources might be, Baïkal will get the job done.</p>
-				</div>
-			</div>
-			
-			<div class="row leftside">
 				<div class="span8 textual">
-					<h3>2-click installation</h3>
-					<p>Baïkal provides a flat package with an automatic installation tool. Extract the downloaded archive, deploy it over FTP to the server, and it is ready to go. No cumbersome tweeking of configuration files required.</p>
+					<h3>Effortless administration</h3>
+					<p>Baïkal include a sleek and extensive <strong>graphical web administration interface</strong> to simplify administrative tasks such as <strong>user management, calendar and addressbooks management</strong>, and system settings. The dashboard presents some key aspects of your system, proiding a one-glance overview of the running services.</p>
 				</div>
-				<div class="span4 graphic">
-					<p>
-						<img src="res/img/wizard-emboss.png" alt="A magic wand"/>
-					</p>
-				</div>
-			</div>
-			
-			<div class="row rightside">
 				<div class="span4 graphic">
 					<p>
 						<img src="res/img/calendars.png" alt="A screenshot of Baïkal"/>
 					</p>
 				</div>
+			</div>
+
+			<div class="row rightside">
+				<div class="span4 graphic">
+					<p>
+						<img src="res/img/wizard-emboss.png" alt="A magic wand"/>
+					</p>
+				</div>
 				<div class="span8 textual">
-					<h3>Effortless administration</h3>
-					<p>Baïkal include a sleek and extensive <strong>graphical web administration interface</strong> to simplify administrative tasks such as <strong>user management, calendar and addressbooks management</strong>, and system settings. The dashboard presents some key aspects of your system, proiding a one-glance overview of the running services.</p>
+					<h3>2-click installation</h3>
+					<p>Baïkal provides a flat package with an automatic installation tool. Extract the downloaded archive, deploy it over FTP to the server, and it is ready to go. No cumbersome tweeking of configuration files required.</p>
+				</div>
+			</div>
+			
+			<div class="row leftside">
+				<div class="span7 textual">
+					<h3>Lightweight</h3>
+					<p>Baïkal’s less than 2MB codebase runs on <strong>PHP 5.3</strong> and newer. User data is stored in an <strong>SQLite</strong> database.</strong> No matter how modest your hosting and resources might be, Baïkal will get the job done.</p>
+				</div>
+				<div class="span5 graphic">
+					<p><img src="res/img/feather-white.png" alt="A feather, symbolizing the lightness of Baïkal"/></p>
+				</div>
+			</div>
+
+			<div class="row rightside">
+				<div class="span5 graphic">
+					<p>
+						<img src="res/img/osi_standard_logo.png" alt="Open source initiative logo"/>
+					</p>
+				</div>
+				<div class="span7 textual">
+					<h3>Free and open source</h3>
+					<p>Baïkal is “free” as in “free beer.” You can <strong>use it freely, without time restrictions.</strong> The source code is public, and available to everyone. You can modify, review, and contribute to Baïkal’s development. Baïkal is based on other great <strong>open source</strong> projects like <a href="http://code.google.com/p/sabredav/">SabreDAV,</a> <a href="http://twig.sensiolabs.org/" >Twig,</a> and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a> to ensure top quality.</p>
+					<p>Baïkal is released under the <strong>GNU GPL v3 license</strong>, which is approved by the <a href="http://www.opensource.org/licenses/gpl-3.0">Open Source Initiative</a>.</p>
 				</div>
 			</div>
 		</div>
