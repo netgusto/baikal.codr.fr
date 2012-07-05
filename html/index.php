@@ -88,9 +88,9 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 			
 			<div class="row leftside">
 				<div class="span7 textual">
-					<h3>Free and opensource</h3>
-					<p>Baïkal is free as in free beer. You can <strong>use it freely, without time limit</strong>. Also, it's source code is public, so everybody can review and collaborate to its development. Also, Baïkal is based itself on other great <strong>opensource</strong> projects like <a href="http://code.google.com/p/sabredav/" target="_blank">SabreDAV</a>, <a href="http://twig.sensiolabs.org/" target="_blank">Twig</a> and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a> to ensure top quality.</p>
-					<p>Baïkal is released under <strong>GNU GPL v3 license</strong>, which is approved by the <a href="http://www.opensource.org/licenses/gpl-3.0" target="_blank">open source initiative</a>.</p>
+					<h3>Free and open source</h3>
+					<p>Baïkal is “free” as in “free beer.” You can <strong>use it freely, without time restrictions.</strong> The source code is public, and available to everyone. You can modify, review, and contribute to Baïkal’s development. Baïkal is based on other great <strong>open source</strong> projects like <a href="http://code.google.com/p/sabredav/">SabreDAV,</a> <a href="http://twig.sensiolabs.org/" >Twig,</a> and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a> to ensure top quality.</p>
+					<p>Baïkal is released under the <strong>GNU GPL v3 license</strong>, which is approved by the <a href="http://www.opensource.org/licenses/gpl-3.0">Open Source Initiative</a>.</p>
 				</div>
 				<div class="span5 graphic">
 					<p>
