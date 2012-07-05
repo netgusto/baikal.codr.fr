@@ -46,8 +46,9 @@ h3 {
 	opacity: 1;
 }
 
-header#baikal-hero .container {
-    padding: 100px 0;
+header#baikal-hero hgroup {
+	display: block;
+	padding: 100px 0;
 	position: relative;
 }
 
@@ -113,7 +114,7 @@ header#baikal-hero::after {
 		padding-left: 0px;
 	}
 	
-	.container {
+	.container, #baikal-hero hgroup {
 		margin-left: 20px;
 		margin-right: 20px;
 	}
