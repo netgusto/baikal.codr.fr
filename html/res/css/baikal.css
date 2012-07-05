@@ -52,11 +52,11 @@ header#baikal-hero .container {
 }
 
 .bigblue h3 {
-    letter-spacing: -3px;
+    letter-spacing: .8pt;
     color: white;
     position: relative;
     margin-bottom: 5px;
-	text-shadow: 0px 2px 6px #003863;
+    text-shadow: 0px 2px 6px #003863;
 }
 
 .bigblue h3 {
