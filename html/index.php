@@ -216,10 +216,10 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 				<div class="span3 download-package">
 					<div class="description">
 						<h4><img src="res/img/download-boat-24px.png" class="pull-left" alt=""/> Flat package</h4>
-						<p class="package-explain">The easiest package.</p>
+						<p class="package-explain">Easy installation.</p>
 						<p class="package-body">
 							<strong>Install via FTP.</strong><br />
-							Download this package if you want to install Baïkal on an existing domain, or <strong>if the only access you have to your host is FTP</strong> (ie if you have no command line access to the host).
+							Download this package if you want Baïkal up and running quickly, or <strong>if ou have limited access to the host server.</strong>
 						</p>
 					</div>
 					<p class="download-package-button">
@@ -235,7 +235,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 						<p class="package-explain">For experimented users.</p>
 						<p class="package-body">
 							<strong>Install via SSH.</strong><br />
-							Download this package if you want to install Baïkal on an new domain, and <strong>if you have a SSH access</strong> to the host.
+							Download this package if you want to install Baïkal and have <strong>shell access</strong> (SSH) to the host server.
 						</p>
 					</div>
 					<p class="download-package-button">
