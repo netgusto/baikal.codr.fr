@@ -247,11 +247,11 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 				</div>
 				<div class="span3 download-package">
 					<div class="description">
-						<h4><img src="res/img/download-scuba-24px.png" class="pull-left" alt="" /> Cutting-edge</h4>
+						<h4><img src="res/img/download-scuba-24px.png" class="pull-left" alt="" /> Bleeding-edge</h4>
 						<p class="package-explain">For developpers.</p>
 						<p class="package-body">
 							<strong>Install via SSH+Git.</strong><br />
-							Freshly drawn, if you need the freshest code there is.
+							Freshly drawn straight from the development repository.
 						</p>
 					</div>
 					<p class="download-package-button">
