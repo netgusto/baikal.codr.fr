@@ -82,7 +82,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 				</div>
 				<div class="span6 textual">
 					<h3>Compatible with your existing applications</h3>
-					<p>Baïkal is compatible with <strong>iOS’</strong> (iPhone, iPad, and iPod) and <strong>Mac OS X’s</strong> Calendar, Reminders, and Address Book apps; <strong>Android’s</strong> calendars and contacts apps; Evolution for <strong>Linux;</strong> Mozilla Thunderbird with Lightning; Atmail; eM Client for <strong>Windows;</strong> and every other <strong>CalDAV and CardDAV</strong> capable application.</p>
+					<p>Baïkal is compatible with <strong>iOS’</strong> (iPad, iPhone, and iPod) and <strong>Mac OS X’s</strong> Calendar, Contacts, and Reminders apps; <strong>Android’s</strong> calendars and contacts apps; Evolution for <strong>Linux;</strong> Mozilla Thunderbird with Lightning; Atmail; eM Client for <strong>Windows;</strong> and every other <strong>CalDAV and CardDAV</strong> capable application.</p>
 				</div>
 			</div>
 			
