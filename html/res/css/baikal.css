@@ -53,7 +53,7 @@ header#baikal-hero .container {
 }
 
 .bigblue h3 {
-    letter-spacing: .8pt;
+    letter-spacing: .6pt;
     color: white;
     position: relative;
     margin-bottom: 5px;
@@ -67,6 +67,7 @@ header#baikal-hero .container {
 }
 
 .bigblue h1 {
+	letter-spacing: .4pt;
 	font-size: 28px;
 	line-height: 34px;
 	margin-bottom: 8px;
