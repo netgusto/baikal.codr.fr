@@ -1,8 +1,8 @@
 <?php
 
-$sVersion = "0.2.0";
-$sFlatLink = "get/baikal-flat." . $sVersion . ".zip";
-$sStockLink = "get/baikal-stock." . $sVersion . ".tgz";
+$sVersion = "0.2.4";
+$sFlatLink = "get/baikal-flat-" . $sVersion . ".zip";
+$sRegularLink = "get/baikal-regular-" . $sVersion . ".tgz";
 $sDevLink = "http://github.com/jeromeschneider/Baikal";
 
 ?><!DOCTYPE html>
@@ -14,7 +14,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
   <meta charset="utf-8">
   <title>CalDAV + CardDAV lightweight server: Baïkal</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="CalDAV and CardDAV server for calendar and contact data based on PHP, SQLite, and SabreDAV">
+  <meta name="description" content="CalDAV and CardDAV server for calendar and contact data based on PHP, SQLite/MySQL, and SabreDAV">
 
   <!-- Le styles -->
   <link href="res/css/bootstrap.css" rel="stylesheet">
@@ -113,7 +113,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 			<div class="row leftside">
 				<div class="span7 textual">
 					<h3>Lightweight</h3>
-					<p>Baïkal’s less than 2MB codebase runs on <strong>PHP 5.3</strong> and newer. User data is stored in an <strong>SQLite</strong> database.</strong> No matter how modest your hosting and resources might be, Baïkal will get the job done.</p>
+					<p>Baïkal’s less than 2MB codebase runs on <strong>PHP 5.3</strong> and newer. User data is stored in an <strong>SQLite</strong> database. <strong>MySQL</strong> is also fully supported. </strong> No matter how modest your hosting and resources might be, Baïkal will get the job done.</p>
 				</div>
 				<div class="span5 graphic" style="margin-top:-2em">
 					<p><img src="res/img/feather-white.png" alt="A feather, symbolizing the lightness of Baïkal"/></p>
@@ -231,15 +231,15 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 				</div>
 				<div class="span3 download-package">
 					<div class="description">
-						<h4><img src="res/img/download-palmes-24px.png" class="pull-left" alt="" /> Stock package</h4>
-						<p class="package-explain">For experimented users.</p>
+						<h4><img src="res/img/download-palmes-24px.png" class="pull-left" alt="" /> Regular package</h4>
+						<p class="package-explain">For experienced users.</p>
 						<p class="package-body">
 							<strong>Install via SSH.</strong><br />
 							Download this package if you want to install Baïkal and have <strong>shell access</strong> (SSH) to the host server.
 						</p>
 					</div>
 					<p class="download-package-button">
-						<a class="btn btn-default btn-download" href="<?= $sStockLink ?>"><img src="res/img/download-blue-148px.png" alt="" /></a>
+						<a class="btn btn-default btn-download" href="<?= $sRegularLink ?>"><img src="res/img/download-blue-148px.png" alt="" /></a>
 					</p>
 				</div>
 				<div class="span1">
