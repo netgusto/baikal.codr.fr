@@ -59,7 +59,17 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 	
 	<section id="presentation">
 		<div class="container">
-			<div class="first row leftside">
+			<div class="first row">
+				<script type="text/javascript"><!--
+				google_ad_client = "ca-pub-5484887684548943";
+				/* Leaderboard top */
+				google_ad_slot = "1553067714";
+				google_ad_width = 728;
+				google_ad_height = 90;
+				//-->
+				</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+			</div>
+			<div class="row leftside">
 				<div class="span7 textual">
 					<h3>Your Calendars and Contacts</h3>
 					<p>Baïkal offers ubiquitous and synchronized access to your <strong>calendars</strong> and <strong>address books</strong> over <em>CalDAV and CardDAV.</em> Baïkal implements the current IETF recommendation drafts of these industry standards for centralized calendar and address book collections.</p>
@@ -76,7 +86,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 				<div class="span6 graphic">
 					<p style="margin-top: 0.5em;">
 						<img src="res/img/apple.png" style="margin-right: 0.9em;" alt="Apple logo"/>
-						<img src="res/img/thunderbird.png" style="margin-right: 1em; margin-top: 10px;" alt="Mozilla Thunderbird logo"/>
+						<img src="res/img/thunderbird.png" style="margin-right: 0.6em; margin-top: 10px;" alt="Mozilla Thunderbird logo"/>
 						<img src="res/img/android.png" alt="Android logo"/>
 					</p>
 				</div>
@@ -270,6 +280,17 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 			</div>
 			<div style="margin-top: 50px; text-align: center;">
 				<p><a href="https://twitter.com/jeromeschneider" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @jeromeschneider</a> <a href="https://twitter.com/intent/tweet?button_hashtag=BaikalServer&text=Finally%20found%20a%20lightweight%20%23CalDAV%20%2B%20%23CardDAV%20Server%20!%20http%3A%2F%2Fbaikal.codr.fr" class="twitter-hashtag-button" data-size="large" data-related="jeromeschneider">Tweet #BaikalServer</a></p>
+			</div>
+			<div class="row">
+			<p>&nbsp;</p>
+			<script type="text/javascript"><!--
+				google_ad_client = "ca-pub-5484887684548943";
+				/* Leaderboard bottom */
+				google_ad_slot = "3029800918";
+				google_ad_width = 728;
+				google_ad_height = 90;
+				//-->
+				</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 			</div>
 		</div>
 	</section>
