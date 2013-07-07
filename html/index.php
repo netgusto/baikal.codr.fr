@@ -1,6 +1,6 @@
 <?php
 
-$sVersion = "0.2.5";
+$sVersion = "0.2.6";
 $sFlatLink = "get/baikal-flat-" . $sVersion . ".zip";
 $sRegularLink = "get/baikal-regular-" . $sVersion . ".tgz";
 $sDevLink = "http://github.com/jeromeschneider/Baikal";
