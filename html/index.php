@@ -280,6 +280,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 			</div>
 			<div style="margin-top: 50px; text-align: center;">
 				<p><a href="https://twitter.com/jeromeschneider" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @jeromeschneider</a> <a href="https://twitter.com/intent/tweet?button_hashtag=BaikalServer&text=Finally%20found%20a%20lightweight%20%23CalDAV%20%2B%20%23CardDAV%20Server%20!%20http%3A%2F%2Fbaikal.codr.fr" class="twitter-hashtag-button" data-size="large" data-related="jeromeschneider">Tweet #BaikalServer</a></p>
+				<p><div class="g-plusone"></div></p>
 			</div>
 			<div class="row">
 			<p>&nbsp;</p>
@@ -291,6 +292,14 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 				google_ad_height = 90;
 				//-->
 				</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				<!-- Placez cette balise après la dernière balise Bouton +1. -->
+				<script type="text/javascript">
+					(function() {
+						var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						po.src = 'https://apis.google.com/js/plusone.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+					})();
+				</script>
 			</div>
 		</div>
 	</section>
