@@ -30,16 +30,17 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 			$("html,body").animate({scrollTop: $(element).offset().top}, "slow");
 		}
 	</script>
-	<script>
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-31919509-1']);
-	  _gaq.push(['_trackPageview']);
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-	</script>
+	<script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-31919509-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
 </head>
 <body>
 
@@ -280,7 +281,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 			</div>
 			<div style="margin-top: 50px; text-align: center;">
 				<p><a href="https://twitter.com/jeromeschneider" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @jeromeschneider</a> <a href="https://twitter.com/intent/tweet?button_hashtag=BaikalServer&text=Finally%20found%20a%20lightweight%20%23CalDAV%20%2B%20%23CardDAV%20Server%20!%20http%3A%2F%2Fbaikal.codr.fr" class="twitter-hashtag-button" data-size="large" data-related="jeromeschneider">Tweet #BaikalServer</a></p>
-				<p><div class="g-plusone"></div></p>
+				<p><g:plusone></g:plusone></p>
 			</div>
 			<div class="row">
 			<p>&nbsp;</p>
@@ -303,7 +304,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 			</div>
 		</div>
 	</section>
-	<a href="https://github.com/jeromeschneider/Baikal"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png" alt="Fork me on GitHub"></a>	
+	<a href="https://github.com/jeromeschneider/Baikal"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png" alt="Fork me on GitHub"></a>
 <!-- End Document
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
