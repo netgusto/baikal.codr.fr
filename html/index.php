@@ -280,7 +280,7 @@ $sDevLink = "http://github.com/jeromeschneider/Baikal";
 				</form>
 			</div>
 			<div style="margin-top: 50px; text-align: center;">
-				<p><a href="https://twitter.com/jeromeschneider" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @jeromeschneider</a> <a href="https://twitter.com/intent/tweet?button_hashtag=BaikalServer&text=Finally%20found%20a%20lightweight%20%23CalDAV%20%2B%20%23CardDAV%20Server%20!%20http%3A%2F%2Fbaikal.codr.fr" class="twitter-hashtag-button" data-size="large" data-related="jeromeschneider">Tweet #BaikalServer</a></p>
+				<p><a href="https://twitter.com/jeromeschneider" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @jeromeschneider</a> <a href="https://twitter.com/intent/tweet?button_hashtag=BaikalServer&text=Finally%20found%20a%20lightweight%20%23CalDAV%20%2B%20%23CardDAV%20Server%20!%20http%3A%2F%2Fbaikal-server.com" class="twitter-hashtag-button" data-size="large" data-related="jeromeschneider">Tweet #BaikalServer</a></p>
 				<p><g:plusone></g:plusone></p>
 			</div>
 			<div class="row">
